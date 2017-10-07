@@ -11,6 +11,8 @@ h6 {
 	color: #7b7b87;
 	margin-bottom: 20px;
 }
+.head-bottom img{width:100%;}
+
 .head-top {
 	background: #207aaf;
 	min-height: 56px;
@@ -56,7 +58,7 @@ h6 {
 	width: auto;
 }
 .navbar { 
-	padding:0 !important;
+	padding:0 !important;float:right;margin-top:25px;
 }
 .navbar-light .navbar-nav .nav-link { 
 	color:#207aaf;
