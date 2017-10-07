@@ -2,7 +2,7 @@
 title: seven
 baseurl: /seven
 favicon: favicon.png
-banner-image: banner.jpg 
+banner-image: banner1.jpg 
 exclude: ['README.md']
 permalink: pretty #to remove .html
 gems:
