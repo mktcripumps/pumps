@@ -1,8 +1,8 @@
-- product-background-image: bannerpro.jpeg
+- product-background-image: footbanner.jpeg
   product-heading: Our product
-  product-image-one: product.jpg
-  product-subtitle-one: UPVC Plumbing Pipes
-  product-image-two: product.jpg
-  product-subtitle-two: UPVC Submersible Column Pipes
-  product-image-three: product.jpg
-  product-subtitle-three: Water Tanks
+  product-image-one: product1.png
+  product-subtitle-one: Virat Series
+  product-image-two: product2.jpg
+  product-subtitle-two: Congo series
+  product-image-three: product3.jpg
+  product-subtitle-three: Jumbo series
