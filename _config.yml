@@ -1,6 +1,6 @@
 # site setting
 title: seven
-baseurl: http://seven.hatkit.com
+baseurl: /seven
 favicon: favicon.png
 banner-image: banner.jpg 
 exclude: ['README.md']
