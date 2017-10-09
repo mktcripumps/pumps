@@ -1,6 +1,6 @@
 # site setting
 title: pumps
-baseurl: /pumps
+baseurl: /seven
 favicon: favicon.png
 banner-image: banner1.jpg 
 exclude: ['README.md']
